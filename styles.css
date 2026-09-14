@@ -17,3 +17,19 @@
   .hero h1{font-size:44px}
   .brand-footer .brand-logo{width:168px}
 }
+
+/* Exact supplied ETA artwork */
+.brand-logo{width:auto;height:72px;object-fit:contain}
+.brand-footer .brand-logo{width:auto;height:92px;background:#fff;border-radius:14px;padding:8px 12px}
+.hero-logo-symbol{position:relative;display:block;width:88px;height:56px;overflow:hidden;flex:0 0 88px}
+.hero-logo-symbol img{position:absolute;max-width:none!important;width:215px!important;height:auto!important;left:-64px;top:-10px;object-fit:initial}
+.footer-links{display:flex;align-items:center;gap:24px}
+.site-credit{color:#afc5d4;transition:.2s}
+.site-credit:hover{color:#fff;text-decoration:underline;text-underline-offset:4px}
+@media(max-width:620px){
+  .brand-logo{width:auto;height:58px}
+  .brand-footer .brand-logo{width:auto;height:84px}
+  .hero-logo-symbol{width:72px;height:48px;flex-basis:72px}
+  .hero-logo-symbol img{width:180px!important;left:-55px;top:-8px}
+  .footer-links{align-items:flex-start;flex-direction:column;gap:6px}
+}
