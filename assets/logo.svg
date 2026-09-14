@@ -1,24 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 210" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 170" role="img" aria-labelledby="title desc">
 <title id="title">ETA Nettoyage</title>
-<desc id="desc">Logo avec vaporisateur, raclette, éclats et vague bleue</desc>
+<desc id="desc">Logo ETA Nettoyage avec symbole de nettoyage à gauche et nom à droite</desc>
 <g fill="none" fill-rule="evenodd">
-  <g transform="translate(126 4)">
-    <path d="M10 39c35-27 74-38 117-34-30 3-55 13-76 29 20-6 39-8 58-6-30 6-53 16-69 30z" fill="#123765"/>
-    <path d="M121 46h47l5 17h-17v11h-22V62h-13z" fill="#123765"/>
-    <path d="M144 71h19v18c17 9 24 28 21 57H111c-3-31 4-50 22-58V71z" fill="#123765"/>
-    <path d="M135 96c-9 10-12 24-10 43" stroke="#fff" stroke-width="7" stroke-linecap="round" opacity=".85"/>
-    <g transform="translate(195 8)" fill="#123765">
-      <path d="M25 0l7 16 16 7-16 7-7 16-7-16-16-7 16-7z"/>
-      <path d="M66 26l4 9 9 4-9 4-4 9-4-9-9-4 9-4z"/>
-    </g>
-    <g transform="translate(188 55)" fill="#123765">
-      <path d="M0 14l9-12 96 69-9 12z"/>
-      <path d="M91 65l13-18 16 12-13 18z"/>
-      <path d="M79 80c-5 19-19 28-39 27 13-11 20-25 20-42z"/>
-    </g>
-    <path d="M0 142c78 47 198 59 327 8-96 72-239 77-327-8z" fill="#3f95c5"/>
-    <path d="M17 130c78 41 191 48 295 9-92 57-211 59-295-9z" fill="#123765"/>
+  <g transform="translate(2 36) scale(.48)">
+    <path d="M8 40c37-28 79-39 124-35-31 3-58 14-80 30 21-6 41-8 61-6-31 6-55 17-72 31z" fill="#123765"/>
+    <path d="M123 47h49l5 18h-18v11h-23V64h-13z" fill="#123765"/>
+    <path d="M147 75h20v18c18 10 25 30 22 60h-77c-3-33 5-53 23-61V75z" fill="#123765"/>
+    <path d="M138 101c-9 11-13 25-10 45" stroke="#fff" stroke-width="7" stroke-linecap="round" opacity=".85"/>
+    <path d="M216 8l8 17 17 8-17 8-8 17-8-17-17-8 17-8zM258 37l4 10 10 4-10 4-4 10-4-10-10-4 10-4z" fill="#123765"/>
+    <path d="M198 67l10-13 101 72-10 13zM294 120l14-19 17 12-14 19zM282 136c-6 20-20 30-42 29 14-12 21-27 21-44z" fill="#123765"/>
+    <path d="M0 149c83 50 210 62 347 9-102 76-253 81-347-9z" fill="#3f95c5"/>
+    <path d="M18 136c83 44 202 51 312 10-97 60-224 62-312-10z" fill="#123765"/>
   </g>
-  <text x="310" y="185" text-anchor="middle" fill="#123765" font-family="Arial,Helvetica,sans-serif" font-size="48" font-weight="800" font-style="italic" letter-spacing="2">ETA NETTOYAGE</text>
+  <g fill="#123765" font-family="Arial,Helvetica,sans-serif">
+    <text x="190" y="84" font-size="58" font-weight="850" font-style="italic" letter-spacing="2">ETA</text>
+    <text x="192" y="122" font-size="27" font-weight="750" letter-spacing="7">NETTOYAGE</text>
+  </g>
 </g>
 </svg>
