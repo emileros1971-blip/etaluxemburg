@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 190" role="img" aria-label="ETA Nettoyage">
+<g fill="none" fill-rule="evenodd">
+  <path d="M8 40c37-28 79-39 124-35-31 3-58 14-80 30 21-6 41-8 61-6-31 6-55 17-72 31z" fill="#123765"/>
+  <path d="M123 47h49l5 18h-18v11h-23V64h-13z" fill="#123765"/>
+  <path d="M147 75h20v18c18 10 25 30 22 60h-77c-3-33 5-53 23-61V75z" fill="#123765"/>
+  <path d="M138 101c-9 11-13 25-10 45" stroke="#fff" stroke-width="7" stroke-linecap="round" opacity=".85"/>
+  <path d="M216 8l8 17 17 8-17 8-8 17-8-17-17-8 17-8zM258 37l4 10 10 4-10 4-4 10-4-10-10-4 10-4z" fill="#123765"/>
+  <path d="M198 67l10-13 101 72-10 13zM294 120l14-19 17 12-14 19zM282 136c-6 20-20 30-42 29 14-12 21-27 21-44z" fill="#123765"/>
+  <path d="M0 149c83 50 210 62 347 9-102 76-253 81-347-9z" fill="#3f95c5"/>
+  <path d="M18 136c83 44 202 51 312 10-97 60-224 62-312-10z" fill="#123765"/>
+</g>
+</svg>
