@@ -33,3 +33,11 @@
   .hero-logo-symbol img{width:180px!important;left:-55px;top:-8px}
   .footer-links{align-items:flex-start;flex-direction:column;gap:6px}
 }
+
+/* Approved spotless-home hero illustration */
+.hero-logo-symbol{width:94px;height:82px;flex:0 0 94px;overflow:visible;display:grid;place-items:center}
+.hero-logo-symbol img{position:static!important;display:block;width:88px!important;height:78px!important;max-width:100%!important;object-fit:contain!important}
+@media(max-width:620px){
+  .hero-logo-symbol{width:72px;height:64px;flex-basis:72px}
+  .hero-logo-symbol img{width:68px!important;height:60px!important}
+}
